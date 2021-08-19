@@ -1,0 +1,7 @@
+.vscode/
+build/
+dist/
+venv/
+
+__pycache__/
+app.spec
